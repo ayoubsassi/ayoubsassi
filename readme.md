@@ -10,53 +10,75 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,100:38EF7D&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=11998E&width=435&lines=Hello%2C+it's+Ayoub+Sassi;AI+%2F+Machine+Learning+Engineer;Deep+Learning+%7C+LLMs+%7C+RAG" alt="AI / Machine Learning Engineer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=11998E&width=500&lines=Hello%2C+it's+Ayoub+Sassi;AI+%2F+Machine+Learning+Engineer;Deep+Learning+%7C+RL+%7C+Computer+Vision;RAG+%7C+LLMs+%7C+Agentic+AI" alt="AI / Machine Learning Engineer"/>
 </a>
 
 <!--
     About me
 -->
 ### About me
-🧠 AI/ML engineer working on deep learning, LLMs, and applied machine learning.
-🔬 From neural precoding for wireless systems to retrieval-augmented generation and LLM tooling.
-🌱 Always experimenting, always learning.
+🎓 CS Master's (GPA 3.96) at the University of Michigan-Flint.
+🧠 ML/AI engineer working across deep learning, reinforcement learning, computer vision, and RAG/LLM systems.
+📄 Published IEEE research — presented at **ISCAS 2025**, London, UK.
+📍 Based in Flint, MI · Seeking ML/AI Engineer roles.
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,git,github,postgres,mysql,mongodb,docker,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,mysql,git,github,aws,linux,vscode)](https://skillicons.dev)
+
+**Also working with:** RAG · LLMs · LangChain · FAISS · Qdrant · Prompt Engineering · Agentic AI · Streamlit · CARLA · Hugging Face · Pandas
 
 ### Currently exploring
-[![Learning](https://skillicons.dev/icons?i=aws,kubernetes,fastapi)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
 
 <!--
-    Featured projects
+    Featured / pinned projects
 -->
 ### Featured projects
 <div>
   <a href="https://github.com/ayoubsassi/Deep-Learning-based-Precoding-for-MU-MISO-VLC-Systems">
-    <img src="https://img.shields.io/badge/Deep_Learning_Precoding_(VLC)-11998E?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL Precoding VLC">
+    <img src="https://img.shields.io/badge/DL_Precoding_(VLC)-11998E?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL Precoding VLC">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/World_Cup_Storyteller-1E6091?style=for-the-badge&logo=huggingface&logoColor=white" alt="World Cup Storyteller">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Road_Signs_Detection-FF6F00?style=for-the-badge&logo=yolo&logoColor=white" alt="Road Signs Detection">
   </a>
   <a href="https://github.com/ayoubsassi/Medical-RAG">
-    <img src="https://img.shields.io/badge/Medical_RAG-1E6091?style=for-the-badge&logo=openai&logoColor=white" alt="Medical RAG">
-  </a>
-  <a href="https://github.com/ayoubsassi/pgai-voice-bot-tester">
-    <img src="https://img.shields.io/badge/pgai_Voice_Bot_Tester-38EF7D?style=for-the-badge&logo=python&logoColor=black" alt="pgai Voice Bot Tester">
+    <img src="https://img.shields.io/badge/Medical_RAG-38EF7D?style=for-the-badge&logo=openai&logoColor=black" alt="Medical RAG">
   </a>
 </div>
 
-- 🛰️ [**Deep-Learning Precoding for MU-MISO VLC Systems**](https://github.com/ayoubsassi/Deep-Learning-based-Precoding-for-MU-MISO-VLC-Systems) — neural precoding for visible-light communication
-- 🩺 [**Medical-RAG**](https://github.com/ayoubsassi/Medical-RAG) — retrieval-augmented generation for medical Q&A
-- 🤖 [**pgai-voice-bot-tester**](https://github.com/ayoubsassi/pgai-voice-bot-tester) — testing framework for AI voice bots
+- 🛰️ [**Deep-Learning Precoding for MU-MISO VLC Systems**](https://github.com/ayoubsassi/Deep-Learning-based-Precoding-for-MU-MISO-VLC-Systems) — neural precoding for visible-light comms, near-optimal interference mitigation with **225× lower compute** than baseline.
+- 🏆 [**World Cup Storyteller**](#) <!-- add repo link --> — comparative NLP app (Zero-Shot / Few-Shot / RAG) for sports narrative generation, evaluated with LLM-as-a-Judge; deployed on Hugging Face Spaces.
+- 🚦 [**Road Signs Detection**](#) <!-- add repo link --> — YOLO-based traffic-sign detector for autonomous driving, **96.7% precision / 89.6% recall** across 14 classes.
+- 🩺 [**Medical-RAG**](https://github.com/ayoubsassi/Medical-RAG) — RAG medical chatbot with LangChain, FAISS & Streamlit for context-aware answers.
+- 🤖 [**pgai-voice-bot-tester**](https://github.com/ayoubsassi/pgai-voice-bot-tester) — testing framework for AI voice bots.
+
+### 🤖 RL highlight
+Built an RL agent with Bird's-Eye-View fusion in the **CARLA** simulator for autonomous intersection navigation — **92% collision avoidance**.
+
+<!--
+    Certificates
+-->
+### Certificates
+- ☁️ AWS Certified Cloud Practitioner
+- 📈 Supervised Machine Learning: Regression and Classification
+- 🧮 Advanced Learning Algorithms
 
 <!--
     Socials
 -->
 ### Connect with me!
 <div>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/ayoub-sassi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ayoubsassi51@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/ayoubsassi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
