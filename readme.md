@@ -31,34 +31,6 @@
 [![Learning](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
 
 <!--
-    Featured / pinned projects
--->
-### Featured projects
-<div>
-  <a href="https://github.com/ayoubsassi/Deep-Learning-based-Precoding-for-MU-MISO-VLC-Systems">
-    <img src="https://img.shields.io/badge/DL_Precoding_(VLC)-11998E?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL Precoding VLC">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/World_Cup_Storyteller-1E6091?style=for-the-badge&logo=huggingface&logoColor=white" alt="World Cup Storyteller">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Road_Signs_Detection-FF6F00?style=for-the-badge&logo=yolo&logoColor=white" alt="Road Signs Detection">
-  </a>
-  <a href="https://github.com/ayoubsassi/Medical-RAG">
-    <img src="https://img.shields.io/badge/Medical_RAG-38EF7D?style=for-the-badge&logo=openai&logoColor=black" alt="Medical RAG">
-  </a>
-</div>
-
-- 🛰️ [**Deep-Learning Precoding for MU-MISO VLC Systems**](https://github.com/ayoubsassi/Deep-Learning-based-Precoding-for-MU-MISO-VLC-Systems) — neural precoding for visible-light comms, near-optimal interference mitigation with **225× lower compute** than baseline.
-- 🏆 [**World Cup Storyteller**](#) <!-- add repo link --> — comparative NLP app (Zero-Shot / Few-Shot / RAG) for sports narrative generation, evaluated with LLM-as-a-Judge; deployed on Hugging Face Spaces.
-- 🚦 [**Road Signs Detection**](#) <!-- add repo link --> — YOLO-based traffic-sign detector for autonomous driving, **96.7% precision / 89.6% recall** across 14 classes.
-- 🩺 [**Medical-RAG**](https://github.com/ayoubsassi/Medical-RAG) — RAG medical chatbot with LangChain, FAISS & Streamlit for context-aware answers.
-- 🤖 [**pgai-voice-bot-tester**](https://github.com/ayoubsassi/pgai-voice-bot-tester) — testing framework for AI voice bots.
-
-### 🤖 RL highlight
-Built an RL agent with Bird's-Eye-View fusion in the **CARLA** simulator for autonomous intersection navigation — **92% collision avoidance**.
-
-<!--
     Certificates
 -->
 ### Certificates
