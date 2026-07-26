@@ -43,7 +43,7 @@
 -->
 ### Connect with me!
 <div>
-  <a href="https://www.linkedin.com/in/ayoub-sassi/">
+  <a href="https://www.linkedin.com/in/ayoub-sassi-755747225/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ayoubsassi51@gmail.com">
