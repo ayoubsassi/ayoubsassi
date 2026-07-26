@@ -17,8 +17,9 @@
     About me
 -->
 ### About me
-🎓 I hold a Master's degree in Computer Science from the University of Michigan-Flint.
-🧠 I'm passionate about Machine Learning and AI — building systems that turn models into real, useful applications across deep learning, reinforcement learning, computer vision, and RAG/LLMs.
+🎓 I hold a Master's degree in Computer Science from the University of Michigan-Flint.<br><br>
+
+🧠 I'm passionate about Machine Learning and AI—building systems that turn models into real, useful applications across deep learning, reinforcement learning, computer vision, and RAG/LLMs.
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,mysql,git,github,aws,linux,vscode)](https://skillicons.dev)
