@@ -30,13 +30,6 @@
 ### Currently exploring
 [![Learning](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
 
-<!--
-    Certificates
--->
-### Certificates
-- ☁️ AWS Certified Cloud Practitioner
-- 📈 Supervised Machine Learning: Regression and Classification
-- 🧮 Advanced Learning Algorithms
 
 <!--
     Socials
