@@ -47,16 +47,7 @@
   </a>
 </div>
 
-<!--
-    GitHub stats
--->
-### My GitHub stats
-<div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayoubsassi&show_icons=true&hide_border=true&title_color=11998E&icon_color=38EF7D" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubsassi&layout=compact&hide_border=true&title_color=11998E" alt="Top Languages"/>
-</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,100:38EF7D&height=120&section=footer" alt="footer"/>
 
 <!--
     Thanks for visiting! <3
