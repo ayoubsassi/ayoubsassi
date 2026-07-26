@@ -30,6 +30,8 @@
 ### Currently exploring
 [![Learning](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
 
+### 📄 Publications
+- **Integrating Bird's Eye View Fusion and Reinforcement Learning for Efficient Autonomous Intersection Navigation** — *IEEE ISCAS 2025*, London, UK. [🔗 Read on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11043818)
 
 <!--
     Socials
