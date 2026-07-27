@@ -33,6 +33,11 @@
 ### 📄 Publications
 - **Integrating Bird's Eye View Fusion and Reinforcement Learning for Efficient Autonomous Intersection Navigation** — *IEEE ISCAS 2025*, London, UK. [🔗 Read on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11043818)
 
+### Resume
+> [!IMPORTANT]
+> [**Download my CV**](./my_CV.pdf)
+>
+> 
 <!--
     Socials
 -->
@@ -46,9 +51,7 @@
     <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="35" height="35"/>
   </a>
 
-### 📄 Resume
-> [!IMPORTANT]
-> [**Download my CV**](./my_CV.pdf)
+
 
 
 
