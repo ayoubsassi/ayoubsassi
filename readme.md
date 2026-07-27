@@ -46,7 +46,9 @@
     <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="35" height="35"/>
   </a>
 
-
+### 📄 Resume
+> [!IMPORTANT]
+> [**Download my CV**](./my_CV.pdf)
 
 
 
