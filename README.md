@@ -35,7 +35,7 @@
 
 ### Resume
 > [!IMPORTANT]
-> [Download my CV](https://raw.githubusercontent.com/ayoubsassi/ayoubsassi/main/New_Resume.pdf)
+> [Download my CV](https://raw.githubusercontent.com/ayoubsassi/ayoubsassi/main/ayoub_sassi_CV.pdf)
 >
 > 
 <!--
