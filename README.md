@@ -31,6 +31,8 @@
 [![Learning](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 
 ### 📄 Publications
+
+- **Deep Learning-Based Precoding for MU-MISO VLC Systems** — *IEEE Open Journal of the Communications Society (OJCOMS)*. [🔗 Read on IEEE Xplore]([https://ieeexplore.ieee.org/abstract/document/11043818](https://ieeexplore.ieee.org/document/11733517))
 - **Integrating Bird's Eye View Fusion and Reinforcement Learning for Efficient Autonomous Intersection Navigation** — *IEEE ISCAS 2025*, London, UK. [🔗 Read on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11043818)
 
 ### Resume
